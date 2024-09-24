@@ -1,1 +1,1 @@
-# EN31550-Pattern-Recognition
+# Learning from data and related challenges and linear models for regression
